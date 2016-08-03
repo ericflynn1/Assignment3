@@ -1,0 +1,124 @@
+body {
+    justify-content: space-between;
+}
+#div {
+    display: inline;
+    justify-content: space-between;
+    background-color: lightgrey;
+}
+#div1 {
+    display: flex;
+    border: 1px solid lightgray;
+    height: 50px;
+    margin: 0;
+    justify-content: space-between;
+    font-size: 11px;
+    align-items: flex-start;
+}
+#div2 {
+    display: flex;
+    border: 1px solid lightgray;
+    height: 50px;
+    margin: 0;
+    justify-content: space-between;
+}
+#div3 {
+    display: flex;
+    border: 1px solid lightgray;
+    height: 50px;
+    margin: 0;
+    justify-content: space-between;
+}
+#info1 {
+    display: flex;
+    margin: 0;
+    font-size: 11px;
+    height: 50px;
+    font-family: sans-serif;
+    border: 1px solid lightgray;
+    width: 45%;
+}
+#info2 {
+    display: flex;
+    margin: 0;
+    font-size: 11px;
+    height: 50px;
+    font-family: sans-serif;
+    border: 1px solid lightgray;
+    width: 55%;
+}
+#info3 {
+    width: 33.333%;
+    margin: 0;
+    font-size: 11px;
+    height: 50px;
+    font-family: sans-serif;
+    border: 1px solid lightgray;
+}
+#info4 {
+    width: 33.333%;
+    margin: 0;
+    font-size: 11px;
+    height: 50px;
+    font-family: sans-serif;
+    border: 1px solid lightgray;
+}
+#info5 {
+    width: 33.333%;
+    margin: 0;
+    font-size: 11px;
+    height: 50px;
+    font-family: sans-serif;
+    border: 1px solid lightgray;
+}
+#info6 {
+    width: 30%;
+    margin: 0;
+    font-size: 11px;
+    height: 50px;
+    font-family: sans-serif;
+    border: 1px solid lightgray;
+}
+#info7 {
+    width: 30%;
+    margin: 0;
+    font-size: 11px;
+    font-family: sans-serif;
+    height: 50px;
+    border: 1px solid lightgray;
+}
+#info8 {
+    display: flex;
+    margin: 0;
+    font-size: 11px;
+    height: 50px;
+    font-family: sans-serif;
+    border: 1px solid lightgray;
+    width: 30%;
+}
+#info9 {
+    width: 10%;
+    margin: 0;
+    font-size: 11px;
+    height: 50px;
+    font-family: sans-serif;
+    border: 1px solid lightgray;
+    width: 30%;
+}
+#info10 {
+    display: flex;
+    width: 98%;
+    margin: 0;
+    justify-content: center;
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 12px 12px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+}
+input {
+    opacity: .6%;
+    width: 100%;
+}
