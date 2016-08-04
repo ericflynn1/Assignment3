@@ -98,11 +98,6 @@ body {
 }
 #info9 {
     width: 10%;
-    margin: 0;
-    font-size: 11px;
-    height: 50px;
-    font-family: sans-serif;
-    border: 1px solid lightgray;
     width: 30%;
 }
 #info10 {
@@ -121,4 +116,11 @@ body {
 input {
     opacity: .6%;
     width: 100%;
+}
+.cell {
+    margin: 0;
+    font-size: 11px;
+    height: 50px;
+    font-family: sans-serif;
+    border: 1px solid lightgray;
 }
